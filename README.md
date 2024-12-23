@@ -72,14 +72,6 @@ Year: 2023  Card Number: 001  Card Name: Pikachu  Set Name: Base Set  Condition:
 ### Edit Entry
 - Modify and save existing card details.
 
-## Contribution
-
-Feel free to submit issues or pull requests to improve this project.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 Special thanks to the Pokémon community for inspiration!
