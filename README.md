@@ -47,8 +47,8 @@ Add, search, and edit card entries through a simple Tkinter interface — all sa
 
 1. **Clone the repo** (or download the script file)
    ```bash
-   git clone https://github.com/moturkmani/pokemon-card-database.git
-   cd pokemon-card-database
+   git clone https://github.com/moturkmani/Card-Database.git
+   cd Card-Database
    ```
 
 2. **Run it**
